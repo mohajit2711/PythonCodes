@@ -1,0 +1,16 @@
+name = 'Python';
+print(name[2]);
+list1 = [9,6,7,8,1,6,4];
+list1.index(6);
+list1.append(3);
+print(list1);
+list1.remove(6);
+list1.sort;
+print(list1);
+print(list1.count(4));
+print(list1.reverse());
+list2 = [1,4,2,4,3,2,5];
+print(list1+list2);
+square=[];
+list1.clear;
+print(list1);

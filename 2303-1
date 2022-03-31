@@ -1,0 +1,9 @@
+i = int(input("Please enter number you would like to display" + "\n"))
+s = " "
+def sample(i,s):
+    arg = i
+    print("Number you have chosen to display is " + str(arg))
+    print(s)
+
+
+sample(i,"hello")
