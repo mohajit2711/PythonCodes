@@ -1,2 +1,2 @@
 # PythonCodes
-These are all Python Codes which are from beginner to advanced as time progresses
+Beginner Level Python Codes which i had learnt initially while learning the language.
